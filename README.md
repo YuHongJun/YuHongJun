@@ -14,3 +14,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align=center>
+
+<img alt="demi" src="https://avatars.githubusercontent.com/u/16912692?v=4" width=100 />
+
+# 我叫`Demi`，一个女程序`猿`
+
+<p>
+
+[![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D52700482)](https://space.bilibili.com/52700482)
+[![Github Stars](https://img.shields.io/github/stars/YuHongJun?color=faf408&label=github%20stars&logo=github)](https://github.com/YuHongJun)
+<!-- [![Wechat](https://img.shields.io/badge/-%E6%88%91%E5%BE%88%E5%B9%B4%E8%BD%BB-07c160?logo=wechat&logoColor=white&label=wechat)](https://open.weixin.qq.com/qr/code?username=ezfullstack) -->
+  
+</p>
+  
+我热爱编程. :heart:
+
+希望可以一直写代码到70岁. :heart:
+
+### 我擅长这些 :point_down:  
+
+<p>
+
+![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white)
+
+</p>
+
+<p>
+
+![mobile](https://img.shields.io/badge/-iOS-red?logo=apple&logoColor=white)
+![mobile](https://img.shields.io/badge/-Android-yellow?logo=android&logoColor=white)
+![MiniProgram](https://img.shields.io/badge/-MiniProgram-blue?logo=wechat&logoColor=white)
+![MiniProgram](https://img.shields.io/badge/-uniapp-green?logo=vue.js&logoColor=white)
+
+</p>
+  
+
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezshine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
