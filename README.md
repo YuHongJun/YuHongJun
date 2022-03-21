@@ -40,14 +40,14 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=javascript&logoColor=white)
 
 </p>
 
 <p>
 
-![mobile](https://img.shields.io/badge/-iOS-red?logo=apple&logoColor=white)
-![mobile](https://img.shields.io/badge/-Android-yellow?logo=android&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white)
 ![MiniProgram](https://img.shields.io/badge/-MiniProgram-blue?logo=wechat&logoColor=white)
 ![MiniProgram](https://img.shields.io/badge/-uniapp-green?logo=vue.js&logoColor=white)
 
